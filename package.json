@@ -1,0 +1,29 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xuanquytb/fullStack.git"
+  },
+  "keywords": [
+    "fullstack"
+  ],
+  "author": "xuanquy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xuanquytb/fullStack/issues"
+  },
+  "homepage": "https://github.com/xuanquytb/fullStack#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
